@@ -15,7 +15,7 @@ def working_with_list():
 
 
 def working_with_list():
-    var_tuple = ('apple', 'mango', 'guava', 'orange', 'banana')
+    var_tuple = ('apple', 'mango', 'guava', 'orange', 'banana', 'cherry')
     tiny_tuple = (123, 'john')
     print('Tuple is:')
     print(var_tuple+tiny_tuple)
